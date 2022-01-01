@@ -1,6 +1,6 @@
 {
   "name": "runjavascript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "run JavaScript Code in your source code!",
   "main": "index.js",
   "scripts": {
