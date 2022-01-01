@@ -1,0 +1,14 @@
+{
+  "name": "runjavascript",
+  "version": "1.0.2",
+  "description": "run JavaScript Code in your source code!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "runjavascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
