@@ -1,4 +1,5 @@
 # RunJavaScript -run javascript code in your code!
+日本語ページは[こちら](https://github.com/beezza8/runjavascript/blob/main/README.JA.md)
 
 ## <font color="Blue">Minor Update!</font>
 * **added runFile function**  
