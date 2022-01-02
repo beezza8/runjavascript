@@ -1,4 +1,23 @@
 # RunJavaScript -run javascript code in your code!
+
+## <font color="Blue">Minor Update!</font>
+* **added runFile function**  
+usage:  
+hello.js:  
+```js
+function hello() {
+    console.log("hello");
+}
+
+hello();
+```
+index.js
+```js
+const runjavascript = require("runjavascript");
+console.log(runjavascript.runFile("hello.js"));
+
+//resualt : hello
+```
 ## How to install
 npm:
 ```shell

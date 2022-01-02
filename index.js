@@ -13,5 +13,12 @@ module.exports = {
             fs.unlinkSync("runjs.temp")
             return out.toString()
         }
+    },
+    runFile : function (FilePath) {
+        if (!fs.existsSync(FilePath)) {
+            console.log("no such file")
+            return
+        }
+        return chp.execSync("node " + FilePath).toString()
     }
 }
