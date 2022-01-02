@@ -29,7 +29,7 @@ yarn:
 $ yarn add runjavascript
 ```
 ## Example
-javascript
+javascript:
 ```javascript
 const runjavascript = require("runjavascript");
 
